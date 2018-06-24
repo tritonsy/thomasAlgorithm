@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Triton/CLionProjects/ThomasAlgorithm/main.cpp
+iostream
+-
+math.h
+-
+stdlib.h
+-
+fstream
+-
+

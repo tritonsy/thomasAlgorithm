@@ -1,0 +1,3 @@
+C:/Users/Triton/CLionProjects/ThomasAlgorithm/cmake-build-debug/CMakeFiles/ThomasAlgorithm.dir
+C:/Users/Triton/CLionProjects/ThomasAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Triton/CLionProjects/ThomasAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
